@@ -1,6 +1,6 @@
 [submodule "BUILD"]
 	path = BUILD
-	url = https://github.com/CohenBerkeleyLab/AutoWRFChem-Base.git
+	url = https://github.com/zxdawn/AutoWRFChem-Base.git
 [submodule "WPS"]
 	path = WPS
 	url = https://github.com/CohenBerkeleyLab/WPS.git
