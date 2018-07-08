@@ -15,4 +15,4 @@
 	url = https://github.com/CohenBerkeleyLab/MOZBC.git
 [submodule "WRFV3"]
 	path = WRFV3
-	url = https://github.com/CohenBerkeleyLab/WRF-Chem-R2SMH.git
+	url = https://github.com/zxdawn/WRF-Chem-R2SMH.git
