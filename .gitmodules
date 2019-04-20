@@ -3,10 +3,11 @@
 	url = https://github.com/zxdawn/AutoWRFChem-Base.git
 [submodule "WPS"]
 	path = WPS
-	url = https://github.com/CohenBerkeleyLab/WPS.git
-[submodule "NEI"]
-	path = NEI
-	url = https://github.com/CohenBerkeleyLab/NEI.git
+	url = https://github.com/zxdawn/WPS.git
+	branch = v3.5.1
+[submodule "MEIC"]
+	path = MEIC
+	url = https://github.com/zxdawn/MEIC.git
 [submodule "MEGAN"]
 	path = MEGAN
 	url = https://github.com/CohenBerkeleyLab/MEGAN.git
