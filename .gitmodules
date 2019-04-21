@@ -17,3 +17,6 @@
 [submodule "WRFV3"]
 	path = WRFV3
 	url = https://github.com/zxdawn/WRF-Chem-R2SMH.git
+[submodule "FINN"]
+	path = FINN
+	url = https://github.com/zxdawn/FINN.git
