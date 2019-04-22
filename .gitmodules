@@ -5,21 +5,21 @@
 	path = WPS
 	url = https://github.com/zxdawn/WPS.git
 	branch = v3.5.1
-[submodule "MEIC"]
-	path = MEIC
-	url = https://github.com/zxdawn/MEIC.git
+[submodule "WRFV3"]
+        path = WRFV3
+        url = https://github.com/zxdawn/WRF-Chem-R2SMH.git
 [submodule "MEGAN"]
 	path = MEGAN
 	url = https://github.com/CohenBerkeleyLab/MEGAN.git
 [submodule "MOZBC"]
 	path = MOZBC
 	url = https://github.com/CohenBerkeleyLab/MOZBC.git
-[submodule "WRFV3"]
-	path = WRFV3
-	url = https://github.com/zxdawn/WRF-Chem-R2SMH.git
 [submodule "FINN"]
 	path = FINN
 	url = https://github.com/zxdawn/FINN.git
 [submodule "MOZART"]
 	path = MOZART
-	url = git@github.com:zxdawn/MOZART.git
+	url = https://github.com/zxdawn/MOZART.git
+[submodule "MEIC"]
+	path = MEIC
+	url = https://github.com/zxdawn/MEIC.git
