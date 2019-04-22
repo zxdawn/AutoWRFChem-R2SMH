@@ -20,3 +20,6 @@
 [submodule "FINN"]
 	path = FINN
 	url = https://github.com/zxdawn/FINN.git
+[submodule "MOZART"]
+	path = MOZART
+	url = git@github.com:zxdawn/MOZART.git
