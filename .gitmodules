@@ -11,9 +11,6 @@
 [submodule "MEGAN"]
 	path = MEGAN
 	url = https://github.com/CohenBerkeleyLab/MEGAN.git
-[submodule "MOZBC"]
-	path = MOZBC
-	url = https://github.com/CohenBerkeleyLab/MOZBC.git
 [submodule "FINN"]
 	path = FINN
 	url = https://github.com/zxdawn/FINN.git
