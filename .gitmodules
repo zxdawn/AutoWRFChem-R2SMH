@@ -20,3 +20,6 @@
 [submodule "MEIC"]
 	path = MEIC
 	url = https://github.com/zxdawn/MEIC.git
+[submodule "MOZBC"]
+	path = MOZBC
+	url = https://github.com/zxdawn/MOZBC.git
